@@ -83,7 +83,3 @@ This project is licensed under the MIT License — feel free to use and share.
 
 
 ---
-
-✨ This README gives your repo a **professional structure**: title, contents, setup instructions, purpose, contribution guidelines, and license.  
-
-Do you want me to also prepare a **shorter version** (just title + description + usage) for a minimal style, or do you prefer keeping this full detailed one?
